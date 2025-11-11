@@ -111,7 +111,6 @@ delay_ms(50);
 } 
 }
 ```
-Output:
- WhatsApp.Video.2025-11-10.at.21.49.06_66c51b5b.mp4 
-Result:
+## Output:
+## Result:
 Interface STEPPER MOTOR with ARM processor LPC1768 was executed successfully.
