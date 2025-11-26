@@ -123,6 +123,8 @@ while(1)
  }
 }
 ```
-## OUTPUT:
+# OUTPUT:
 ![WhatsApp Image 2025-11-11 at 13 47 35_773aa144](https://github.com/user-attachments/assets/8853290d-f166-4540-b2f6-3f6e82da6581)
 ![WhatsApp Image 2025-11-11 at 13 47 35_cab18004](https://github.com/user-attachments/assets/009d90b4-9055-4b0f-a11d-69b3282d7e09)
+# RESULT:
+Thus,interfacing of STEPPER MOTOR with ARM processor is verified
